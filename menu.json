@@ -1,0 +1,107 @@
+
+{
+  "restaurant": "Sara's Dine",
+  "cuisine": "Kerala Homemade Food",
+  "currency": "AED",
+  "menu": [
+    {
+      "id": 1,
+      "name": "Kerala Parotta",
+      "category": "Breads",
+      "description": "Soft and flaky layered Kerala-style flatbread.",
+      "price": 3.00,
+      "vegetarian": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "category": "Main Course",
+      "description": "Homemade Kerala-style chicken curry with aromatic spices.",
+      "price": 18.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Beef Roast",
+      "category": "Main Course",
+      "description": "Kerala-style beef cooked with onions, curry leaves and spices.",
+      "price": 22.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Fish Curry",
+      "category": "Main Course",
+      "description": "Traditional Kerala fish curry cooked with coconut and spices.",
+      "price": 20.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Chicken Biriyani",
+      "category": "Biriyani",
+      "description": "Kerala-style chicken biriyani made with fragrant rice, chicken and aromatic spices.",
+      "price": 22.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Malabar Chicken Biriyani",
+      "category": "Biriyani",
+      "description": "Traditional Malabar-style chicken biriyani prepared with aromatic rice, fried onions and spices.",
+      "price": 24.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Beef Biriyani",
+      "category": "Biriyani",
+      "description": "Kerala-style beef biriyani prepared with tender beef, fragrant rice and traditional spices.",
+      "price": 24.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Mutton Biriyani",
+      "category": "Biriyani",
+      "description": "Aromatic Kerala-style biriyani prepared with tender mutton and traditional spices.",
+      "price": 28.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Kerala Fish Fry",
+      "category": "Starters",
+      "description": "Fish marinated with Kerala spices and shallow fried.",
+      "price": 18.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Chicken Fry",
+      "category": "Starters",
+      "description": "Crispy Kerala-style chicken marinated with traditional spices.",
+      "price": 16.00,
+      "vegetarian": false,
+      "available": true
+    },
+    {
+      "id": 11,
+      "name": "Beef Ularthiyathu",
+      "category": "Main Course",
+      "description": "Slow-cooked Kerala beef dish with roasted spices, onions and coconut.",
+      "price": 22.00,
+      "vegetarian": false,
+      "available": true
+    }
+  ]
+}
